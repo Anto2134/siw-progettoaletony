@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 1vh;
+}
+.no-style { /*Permette di usare il link senza cambiare lo stile della scritta*/
+  text-decoration: none;  
+  color: inherit;  
+}
+
+.title {
+  font-family: 'Courier New', Courier, monospace;
+  color: Orange;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.container {
+  text-align: center;
+  background-color: #fff;
+  padding: 3px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Adjust the width as needed */
+  max-width: 600px;
+}
+
+h1 {
+  font-size: 22px;
+  color: Black;
+  margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+img {
+  max-width: 70%;
+  margin:auto;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}

@@ -2,7 +2,7 @@ package it.uniroma3.siw.siwprogettoaletony;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-/*Go ale*/
+
 @SpringBootApplication
 public class SiwProgettoaletonyApplication {
 
